@@ -1,0 +1,16 @@
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\bin\Debug\net5.0\agendaDeTarefasConsole.exe
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\bin\Debug\net5.0\agendaDeTarefasConsole.deps.json
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\bin\Debug\net5.0\agendaDeTarefasConsole.runtimeconfig.json
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\bin\Debug\net5.0\agendaDeTarefasConsole.runtimeconfig.dev.json
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\bin\Debug\net5.0\agendaDeTarefasConsole.dll
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\bin\Debug\net5.0\ref\agendaDeTarefasConsole.dll
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\bin\Debug\net5.0\agendaDeTarefasConsole.pdb
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\obj\Debug\net5.0\agendaDeTarefasConsole.csproj.AssemblyReference.cache
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\obj\Debug\net5.0\agendaDeTarefasConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\obj\Debug\net5.0\agendaDeTarefasConsole.AssemblyInfoInputs.cache
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\obj\Debug\net5.0\agendaDeTarefasConsole.AssemblyInfo.cs
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\obj\Debug\net5.0\agendaDeTarefasConsole.csproj.CoreCompileInputs.cache
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\obj\Debug\net5.0\agendaDeTarefasConsole.dll
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\obj\Debug\net5.0\ref\agendaDeTarefasConsole.dll
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\obj\Debug\net5.0\agendaDeTarefasConsole.pdb
+E:\alura\CSharp\myProjects\agendaDeTarefasConsole\agendaDeTarefasConsole\agendaDeTarefasConsole\obj\Debug\net5.0\agendaDeTarefasConsole.genruntimeconfig.cache
